@@ -8,7 +8,7 @@ This is a fully functional Shopify e-commerce website for **AktivBar**, a fitnes
 
 ## Screenshots:
 ### Homepage Screenshot:
-![Homepage](aktivbar homepage screenshot.PNG)
+![Homepage](activbar homepage screenshot.PNG)
 
 ### Product Page Screenshot:
 ![Product Page](images/products%20page.png)
