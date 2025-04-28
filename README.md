@@ -11,7 +11,7 @@ This is a fully functional Shopify e-commerce website for **AktivBar**, a fitnes
 ![Homepage](aktivbar%20homepage%20screenshot.PNG)
 
 ### Product Page Screenshot:
-![Product Page](images/products%20page.png)
+![Product Page](aktivbar%20products%20page.PNG)
 
 ## Technologies Used:
 - **Shopify** for store setup and management
